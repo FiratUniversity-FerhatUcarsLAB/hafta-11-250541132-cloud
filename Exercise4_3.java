@@ -22,3 +22,16 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+/**Stack Diyagramı (ping İlk Çağrıldığında)
+Metot Çerçevesi 	Yerel Değişkenler & Parametreler	Geri Dönüş Adresi
+ping	            Yok 	                            baffle (Satır 16)
+baffle	            Yok                               	zoop (Satır 2)
+zoop	            Yok                             	main (Satır 9)
+main	            args: [...]	                       (Program Girişi)
+
+
+TAM ÇIKTI:
+No, I wug.
+ You wugga wug.
+I wug.
+*/
