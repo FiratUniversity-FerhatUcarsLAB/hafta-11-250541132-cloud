@@ -25,3 +25,14 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+/*Metot Çerçevesi, Parametreler,Yerel Değişkenler,Geri Dönüş Adresi
+//zoop,"fred: ""breakfast """,Yok,clink (Satır 21)
+//,bob: 4,,
+//clink,fork: 4,Yok,main (Satır 16)
+//main,args: [...],"bizz: 5, buzz: 2",(Program Girişi)
+
+//Tam ve Nihai Çıktı:
+//just for
+//any not more
+//It's breakfast !
+*/
